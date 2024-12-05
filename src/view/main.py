@@ -1,0 +1,1 @@
+from capture import Ui_MainWindow
